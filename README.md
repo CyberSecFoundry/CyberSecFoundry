@@ -1,45 +1,29 @@
-<h1>Hi, I'm Shaquanna! 
-<h2>👨‍💻 IT Projects:</h2>
+## Hi, I'm Shaquanna 👋
 
-  - [Active Directory Home Lab Project](https://github.com/joshmadakor1/Algorithms-Practice)
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+Aspiring IT Support / Help Desk professional in NYC with a security-focused mindset. I build hands-on home labs in Windows, macOS, networking and security, documenting each one the way I'd write a real support ticket.
 
-  - [SEIM Project](https://github.com/joshmadakor1/Algorithms-Practice)
+---
 
+### 🖥️ IT Projects
+- **Windows 11 VM Build:** built WIN11-CLIENT01 in VMware Workstation with a virtual TPM 2.0 and Windows 11 Enterprise *(write-up coming soon)*
+- **Network Troubleshooting Lab:** diagnosing DHCP, gateway, DNS and firewall issues with a layered method *(in progress)*
+- **Active Directory Home Lab:** domain controller, user accounts, password resets and Group Policy *(planned)*
 
-<h2>📃Certifications</h2>
+### 🔐 Cybersecurity Projects
+- **SIEM Home Lab:** collecting and investigating security logs *(planned)*
 
-  - [Network+](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Security+](https://github.com/joshmadakor1/Algorithms-Practice)
+### 📚 Certifications
+- CompTIA Network+ *(in progress)*
+- CompTIA Security+ *(in progress)*
 
-<h2>📺 Popular YouTube Videos</h2>
+### 🛠️ Skills
+- **Operating systems:** Windows 11, macOS
+- **Virtualization:** VMware Workstation, snapshots
+- **Networking:** TCP/IP, DHCP, DNS, ping, ipconfig, nslookup
+- **Security:** Windows Firewall, TPM, least-privilege accounts
+- **Scripting:** PowerShell *(learning)*
 
-- [Tutorial for Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+---
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/shaquannaford
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+[LinkedIn]([your-linkedin-url])
