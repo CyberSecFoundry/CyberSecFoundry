@@ -17,13 +17,14 @@ Aspiring IT Support / Help Desk professional in NYC with a security-focused mind
 - CompTIA Security+ *(in progress)*
 
 ### 🛠️ Skills
-- **Operating systems:** Windows 11, macOS
-- **Virtualization:** VMware Workstation, snapshots
-- **Networking:** TCP/IP, DHCP, DNS, ping, ipconfig, nslookup
-- **Security:** Windows Firewall, TPM, least-privilege accounts
-- **Scripting:** PowerShell *(learning)*
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20DHCP-2E8B57?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-Firewall%20%7C%20TPM-B22222?style=for-the-badge)
 
 ---
 
 ### 📫 Connect with me
-[LinkedIn]([your-linkedin-url])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
