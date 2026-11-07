@@ -1,30 +1,35 @@
-## Hi, I'm Shaquanna 👋
+<h3>Hi, I'm Shaquanna! 👋</h3>
 
-Aspiring IT Support / Help Desk professional in NYC with a security-focused mindset. I build hands-on home labs in Windows, macOS, networking and security, documenting each one the way I'd write a real support ticket.
+<p>Aspiring IT Support / Help Desk professional in NYC with a security-focused mindset. I build hands-on home labs in Windows, macOS, networking and security, documenting each one the way I'd write a real support ticket.</p>
 
----
-
-### 🖥️ IT Projects
-- **Windows 11 VM Build:** built WIN11-CLIENT01 in VMware Workstation with a virtual TPM 2.0 and Windows 11 Enterprise *(write-up coming soon)*
-- **Network Troubleshooting Lab:** diagnosing DHCP, gateway, DNS and firewall issues with a layered method *(in progress)*
-- **Active Directory Home Lab:** domain controller, user accounts, password resets and Group Policy *(planned)*
-
-### 🔐 Cybersecurity Projects
-- **SIEM Home Lab:** collecting and investigating security logs *(planned)*
-
-### 📚 Certifications
-- CompTIA Network+ *(in progress)*
-- CompTIA Security+ *(in progress)*
-
-### 🛠️ Skills
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20DHCP-2E8B57?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-Firewall%20%7C%20TPM-B22222?style=for-the-badge)
 
 ---
+<h3>🖥️ IT Projects:</h3>
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+- <b>Windows 11 VM Build (VMware Workstation) </b>
+  - Built WIN11-CLIENT01 with a virtual TPM 2.0 and Windows 11 Enterprise <i>(write-up coming soon)</i>
+- <b>Network Troubleshooting Lab</b><i>
+  - Diagnosing DHCP, gateway, DNS and firewall issues with a layered method <i>(in progress)
+- <b>Active Directory Home Lab</b>
+   - Domain controller, user accounts, password resets and Group Policy <i>(planned)</i>
+- <b>Help Desk Ticketing System (Peppermint + Docker)</b>
+  - Self-hosted an open-source ticketing system with Docker to practice ticket intake, triage and resolution <i>(in progress)</i>
+
+<h3>👨‍💻 Cyber Projects:</h3>
+
+- <b>SIEM Home Lab</b>
+  - Collecting and investigating security logs <i>(planned)</i>
+  
+<h3> 📚 Certifications:</h3>
+
+- <b>CompTIA Network+</b> <i>(in progress)</i>
+- <b>CompTIA Security+</b> <i>(in progress)</i>
+
+---
+<h3>🤳 Connect with me:</h3>
+
+[<img align="left" alt="Shaquanna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/shaquannaford/
+
+<!--
